@@ -1,5 +1,5 @@
 # BEDSN
-Title: *Boundary-enhanced dual-stream network for semantic segmentation of high-resolution remote sensing images* [[paper]](https://www.sciencedirect.com/science/article/pii/S0924271621001842)<br>https://doi.org/10.1080/15481603.2024.2356355
+Title: *Boundary-enhanced dual-stream network for semantic segmentation of high-resolution remote sensing images* <br>https://doi.org/10.1080/15481603.2024.2356355
 
 X. Li, L. Xie, C. Wang, J. Miao, H. Shen and L. Zhang, “Boundary-enhanced dual-stream network for semantic segmentation of high-resolution remote sensing images,” GIScience & Remote Sensing, vol. 61, pp. 2356355, May, 2024.
 <br>
