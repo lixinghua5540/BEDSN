@@ -11,6 +11,6 @@ Deep convolutional neural networks (DCNNs) have been successfully used in semant
 <br>![overall](https://github.com/lixinghua5540/BEDSN/assets/75232301/a531ef9d-24f2-4878-9197-b1f464c46c62)
 <br>
 ***Usage***<br>
-The implementation code of the proposed method consists of two parts:***Deep translation*** and ***Change detection*** <br>
-First, you should run ***Deep translation*** folder. deep translation is the code of deep migration, and the input data need to cut the image into small pictures to build samples<br>
-Second, ***Change detection*** floder is to use the migrated image for Change detection. The example data given here is Gloucester-SAR, but without data enhancement<br>
+The implementation code contains several versions of BEDSN and some of the comparartive methods. <br>
+The training and testing codes are in the ***Train_Test*** folder, if the network belongs to conventional semantic segmentation, run ***train.py***, if the network is semantic segmentation enhanced by edge detection, run ***train_edge_combined.py***, and we provided two versions of the evaluation process including ***evaluate_operation.py*** and ***Nonboundary_Evaluation.py*** <br>
+First, the data is public dataset from ISPRS 2D semantic labeling contest, and the original data can be acquired on https://www.isprs.org/education/benchmarks/UrbanSemLab/Default.aspx.. Nessesary preprocess of the data is provided in ***Data_processing***<br>
