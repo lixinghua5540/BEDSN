@@ -1,6 +1,6 @@
 The experiments were conducted on Ubuntu 18.04 with the help of Nvidia Quadro RTX 5000 GPU.
 THe basic environmental configuration and the version of each package are as follows:
-Cudatoolkit 10.0.130
+cudatoolkit 10.0.130
 cudnn 7.6.5
 python 3.7.16
 tensorflow-gpu 1.15.0
